@@ -6,8 +6,8 @@ I find Yayoi Kusama's art project, "The Obliteration Room," incredibly inspiring
 
 I believe this project's use of multi-colored stickers accumulating in real-time is a great example of randomness and real-time interaction.
 
-![The Obliteration Room](quiz8_pic/The_Obliteration_Room_1.png)
-![The Obliteration Room](quiz8_pic/The_Obliteration_Room_2.png)
+![The Obliteration Room](https://github.com/TyTang311/ttan8550_9103_tut1/blob/main/The_Obliteration_Room_1.png)
+![The Obliteration Room](https://github.com/TyTang311/ttan8550_9103_tut1/blob/main/The_Obliteration_Room_2.png)
 
 ## Part 2: Coding Technique Exploration
 
