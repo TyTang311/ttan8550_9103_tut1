@@ -13,4 +13,7 @@ I believe this project's use of multi-colored stickers accumulating in real-time
 
 I came across a piece of code that simulates Mitosis. It enables a click on a circle, causing it to split into two circles. This click function can be adapted for sound interaction or real-time interaction in the final project. As participants interact, the circle continues to split and eventually forms a pattern.
 
+![Code example](https://github.com/TyTang311/ttan8550_9103_tut1/blob/main/Code_example_1.png)
+![Code example](https://github.com/TyTang311/ttan8550_9103_tut1/blob/main/Code_example_2.png)
+
 You can find an example of this code [here](https://editor.p5js.org/codingtrain/sketches/K_ABj0cCt).
